@@ -1,4 +1,5 @@
 console.log("hello");
 console.log("Hello aniket");
-console.log("hello");
 
+console.log("Helo my name is pushpam  singh");
+console.log("hello");
